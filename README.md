@@ -7,7 +7,7 @@
 - I'm looking to enroll in NUS Computer Science.
 
 ## Connect with me
-[<img align="left" alt="sunnySideUp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">] [linkedIn]
+[<img align="left" alt="sunnySideUp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedIn]
 
 
 <br>
