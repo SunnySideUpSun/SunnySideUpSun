@@ -8,5 +8,11 @@
 
 ## Connect with me
 - website(In development)
-- [linkedIn](https://www.linkedin.com/in/larry-lee-10b723205/)
-  
+<br>
+[<img align="left" alt="sunnySideUp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">] [linkedIn]
+
+
+<br>
+<br>
+
+[linkedIn]: https://www.linkedin.com/in/larry-lee-10b723205/
